@@ -7,7 +7,7 @@ To clean and prepare a raw Netflix dataset by handling missing values, removing 
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools And Programming Language Used
 - Python
 - Pandas
 - Jupyter Notebook
@@ -58,11 +58,11 @@ Original dataset contains:
 ## 📁 Files Included
 - `netflix_dataset.csv` – Raw dataset
 - `netflix_dataset_cleaned.csv` – Cleaned dataset
-- `cleaning_script.ipynb` – Jupyter Notebook with all code
+- `Netflix Movies and TV Shows Dataset.ipynb` – Jupyter Notebook with all code
 - `README.md` – This file
 
 ---
 
 ## 👨‍💻 Author
 Surjeetsinh Nandkumar Thakur  
-Data Analytics Intern @ Infotact Solutions
+
